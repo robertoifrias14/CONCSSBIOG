@@ -2,8 +2,6 @@
 <!DOCTYPE  html>
 <html>
 <head>
-    
-    <link rel="stylesheet" type="text/css" href="estilos.css">
 </head>
 <body>
     <img src="images/foto 1.jpg">
